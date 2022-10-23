@@ -22,7 +22,7 @@ Student Informatyki 3. roku w specjalizacji "sztuczna inteligencja" i członek k
 
 ### kwalifikacje techniczne
 - zaawansowany python i C++, uczę się rusta
-- znajmość wizji komputerowej, tensorflow, pytorch
+- znajomość wizji komputerowej, tensorflow, pytorch
 - profesjonalne użycie gita, testy jednostkowe, CI/CD
 - SQL, relacyjne bazy danych
 - arduino, raspberry pi, obsługa sensorów i peryferiów
