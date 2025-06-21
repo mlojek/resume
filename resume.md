@@ -6,7 +6,7 @@ I'm a Machine Learning Engineer with close to 3 years of experience and a keen i
 👨‍💻 github: https://github.com/mlojek  
 
 ## Skills
-`English C2` `Python` `C++` `pytorch` `scikit-learn` `LLMs` `langchain` `wandb.ai` `crew ai` `multi-agent systems` `numpy` `pandas` `scipy` `devOPS` `docker` `CI/CD` `unit testing` `airflow`
+`English C1` `git` `Python` `C++` `pytorch` `scikit-learn` `LLMs` `langchain` `wandb.ai` `crew ai` `multi-agent systems` `numpy` `pandas` `scipy` `devOPS` `docker` `CI/CD` `unit testing` `airflow`
 
 ## Experience
 #### Warsaw University of Technology
