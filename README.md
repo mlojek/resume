@@ -6,7 +6,7 @@ I'm a Machine Learning Engineer with close to 3 years of experience and a keen i
 👨‍💻 github: https://github.com/mlojek  
 
 ## Skills
-`English C1` `git` `Python` `C++` `pytorch` `scikit-learn` `LLMs` `langchain` `wandb.ai` `crew ai` `multi-agent systems` `numpy` `pandas` `scipy` `devOPS` `docker` `CI/CD` `unit testing` `airflow`
+`English C1` `git` `Python` `C++` `pytorch` `scikit-learn` `LLMs` `RAG` `langchain` `wandb.ai` `crew ai` `multi-agent systems` `numpy` `pandas` `scipy` `devOPS` `docker` `CI/CD` `unit testing` `airflow`
 
 ## Experience
 #### Warsaw University of Technology
@@ -23,6 +23,7 @@ I'm a Machine Learning Engineer with close to 3 years of experience and a keen i
 
 ## Projects
 - [optilab](https://github.com/mlojek/optilab): Python framework for prototyping and benchmarking of black-box optimization algorithms. It uses CI/CD pipelines to perform static code analysis and push the package to [PyPI](https://pypi.org/project/optilab/), [DockerHub](https://hub.docker.com/r/mlojek/optilab) and [Read the Docs](https://optilab.readthedocs.io/en/latest/).
+- [booktalk](https://github.com/mlojek/booktalk): A RAG application that allows user to chat with AI about a provided book.
 - [cma-es neuroevolution](https://github.com/mlojek/cma_neuroevolution): Research project in which I probed the feasibility of optimizing a neural network using CMA-ES algorithm.
 - [codemate](https://github.com/mlojek/codemate): Codemate is a command-line interface (CLI) coding assistant designed to aid in software development using large language models (LLMs).
 - [headstart](https://github.com/mlojek/headstart): A multi-agent LLM system to kickstart a new software development project. I creates a PoC of a project based on the user's prompt.
