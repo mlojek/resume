@@ -1,14 +1,17 @@
-# Marcin Łojek, Machine Learning Engineer
-I'm a Machine Learning Engineer with close to 3 years of experience and a keen interest in computer vision. I'm an experienced software developer looking for a new opportunity to build something interesting.
+# Marcin Łojek, GenAI and Machine Learning Engineer
 
 ✉️ email: mlojekjobhunt@gmail.com  
 👤 linkedin: https://www.linkedin.com/in/mlojek/  
 👨‍💻 github: https://github.com/mlojek  
 
 ## Skills
-`English C1` `git` `Python` `C++` `pytorch` `scikit-learn` `LLMs` `RAG` `langchain` `wandb.ai` `crew ai` `multi-agent systems` `numpy` `pandas` `scipy` `devOPS` `docker` `CI/CD` `unit testing` `airflow`
+`English C1` `git` `Python` `C++` `pytorch` `scikit-learn` `LLMs` `RAG` `langchain` `wandb.ai` `crew ai` `multi-agent systems` `numpy` `pandas` `scipy` `devOPS` `docker` `CI/CD` `unit testing` `airflow` `Claude Code`
 
 ## Experience
+
+#### Accenture
+- **GenAI engineer, FAST team** `september 2025 - ongoing`: During my tenure at Accenture, I designed and implemented Generative AI systems for large insurance clients across Europe. These projects leveraged agentic AI architectures to automate business workflows, with a strong emphasis on explainability, security, and compliance to satisfy regulatory and enterprise AI standards. In addition, I conducted hands-on reasearch on the effectiveness of AI coding tools in day-to-day software development workflows.
+
 #### Warsaw University of Technology
 - **Machine Learning Engineer** in [DARTS project](https://darts-database.com) `december 2022 - june 2025`: As a ML and software engineer I played a key role in the creation of autonomous data annotation pipeline using state-of-the-art machine learning algorithms and tools. I also conducted research related to computer vision in autonomous vehicles, including detection and tracking of objects in both image and point cloud data. I have also paid extra attention to the quality of my software, and applied industry standard DevOps practices.
 
